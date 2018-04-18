@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="select_game">Select X or O</string>
+    <string name="select_x">X</string>
+    <string name="select_o">O</string>
+    <string name="playerX">Player X</string>
+    <string name="zero">0</string>
+    <string name="playerO">Player O</string>
+    <string name="reset">Reset</string>
+</resources>
